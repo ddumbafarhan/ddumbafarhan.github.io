@@ -1,0 +1,17 @@
+*{
+    margin:auto ;
+    font-family:'Times New Roman', Times, serif ;
+    box-sizing: border-box;
+
+}
+.class{
+    width: 100%;
+    height:auto;
+    background-image: linear-gradient(rgba(0,0,,0,0.7));
+    background-image: url("./image/sancho\ blue\ .JPG");
+    background-position: center;
+    background-size: cover;
+}
+body{
+    background-image: url("./image/sancho\ blue\ .JPG");
+}
